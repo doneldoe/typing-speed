@@ -1,3 +1,6 @@
+# Тест на скорость печати
+Веб-приложение на React, проверяющее скорость печати
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
